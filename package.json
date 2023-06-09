@@ -1,0 +1,62 @@
+{
+  "name": "tablacasa-dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@ant-design/icons": "^4.7.0",
+    "@sentry/browser": "^5.4.0",
+    "@sentry/react": "^6.6.0",
+    "antd": "^3.13.6",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.3.1",
+    "i18next": "^19.8.4",
+    "idx": "^2.5.6",
+    "jquery": "^3.3.1",
+    "less": "^3.10.3",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "named-urls": "^2.0.0",
+    "node-sass": "^6.0.0",
+    "popper.js": "^1.14.7",
+    "react": "^16.8.6",
+    "react-color": "^2.17.3",
+    "react-dom": "^16.8.3",
+    "react-i18next": "^11.8.0",
+    "react-intl": "^2.9.0",
+    "react-moment": "^1.1.2",
+    "react-redux": "^7.1.0",
+    "react-responsive-carousel": "^3.2.23",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "^4.0.3",
+    "recharts": "^1.5.0",
+    "redux": "^4.0.1",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.4.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "babel": {
+    "plugins": [
+      "babel-plugin-idx"
+    ]
+  }
+}

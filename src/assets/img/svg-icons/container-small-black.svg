@@ -1,0 +1,18 @@
+<svg width="20" height="18" viewBox="0 0 20 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M7.36328 9.91342L0.999645 7.01562V13.9322L7.36328 16.83V9.91342Z" fill="white" stroke="#071930" stroke-linejoin="round"/>
+<path d="M19 3.90234L7.36364 9.90246V16.8191L19 10.819V3.90234Z" fill="white" stroke="#071930" stroke-linejoin="round"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="6" y="5" width="13" height="12">
+<path d="M18.2031 5.39453L6.56676 11.3946V16.3136L18.2031 10.3135V5.39453Z" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask0)">
+<line x1="0.25" y1="-0.25" x2="16.5949" y2="-0.25" transform="matrix(-2.4978e-08 1 1 7.64952e-08 9.21094 2.54297)" stroke="#071930" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="0.25" y1="-0.25" x2="16.5949" y2="-0.25" transform="matrix(-2.4978e-08 1 1 7.64952e-08 10.418 2.54297)" stroke="#071930" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="0.25" y1="-0.25" x2="16.5949" y2="-0.25" transform="matrix(-2.4978e-08 1 1 7.64952e-08 11.6211 2.54297)" stroke="#071930" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="0.25" y1="-0.25" x2="16.5949" y2="-0.25" transform="matrix(-2.4978e-08 1 1 7.64952e-08 12.8242 2.54297)" stroke="#071930" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="0.25" y1="-0.25" x2="16.5949" y2="-0.25" transform="matrix(-2.4978e-08 1 1 7.64952e-08 14.0273 2.54297)" stroke="#071930" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="0.25" y1="-0.25" x2="16.5949" y2="-0.25" transform="matrix(-2.4978e-08 1 1 7.64952e-08 15.2305 2.54297)" stroke="#071930" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="0.25" y1="-0.25" x2="16.5949" y2="-0.25" transform="matrix(-2.4978e-08 1 1 7.64952e-08 16.4336 2.54297)" stroke="#071930" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="0.25" y1="-0.25" x2="16.5949" y2="-0.25" transform="matrix(-2.4978e-08 1 1 7.64952e-08 17.6328 2.54297)" stroke="#071930" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path d="M19 3.8978L12.6364 1L1 6.99362L7.36364 9.89142L19 3.8978Z" fill="white" stroke="#071930" stroke-linejoin="round"/>
+</svg>

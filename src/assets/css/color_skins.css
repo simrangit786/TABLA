@@ -1,0 +1,69 @@
+.theme-green ::selection {
+  background: #1e3c72;
+  color: #fff;
+}
+.theme-color {
+  color: #1e3c72 !important;
+}
+.theme-green .page-loader-wrapper {
+  background: #1655a2;
+
+}
+.theme-green #left-sidebar .nav-tabs .nav-link.active {
+  color: #1e3c72;
+}
+
+.theme-green .sidebar-nav .metismenu > li.active > a {
+  color: #ffffff;
+  font-weight: 600;
+}
+.theme-green .navbar-nav ul.menu-icon {
+  background: #1e3c72;
+}
+.theme-green .fancy-checkbox input[type="checkbox"]:checked + span:before {
+  background: #1655a2;;
+  border-color: #1655a2;;
+}
+.theme-green .chat-widget li.right .chat-info {
+  background: #1e3c72;
+  color: #fff;
+}
+.theme-green .chat-widget li.right .chat-info:before {
+  border-left: 10px solid #1e3c72;
+}
+.theme-green
+  .fc
+  .fc-view-container
+  .fc-view.fc-basic-view
+  > table
+  > thead
+  tr
+  th.fc-widget-header {
+  background: #1e3c72;
+  border-color: #1e3c72;
+  color: #fff;
+}
+.theme-green .blog-page .single_post .footer .stats li a:hover {
+  color: #1e3c72;
+}
+.theme-green .auth-main .btn-primary {
+  background: #1e3c72;
+  border-color: #1e3c72;
+}
+.theme-green .sidebar-nav .metismenu > li i {
+  color: #1e3c72;
+}
+.theme-green .right_chat li a:hover .media-object {
+  border-color: #1e3c72;
+}
+.theme-green .chat-app .chat .chat-history .other-message {
+  background: #1e3c72;
+  color: #fff;
+}
+.theme-green .chat-app .chat .chat-history .other-message::after {
+  border-bottom-color: #1e3c72;
+}
+.theme-green .chat-app .people-list .chat-list li.active,
+.theme-green .chat-app .people-list .chat-list li:hover {
+  border-color: #1e3c72;
+}

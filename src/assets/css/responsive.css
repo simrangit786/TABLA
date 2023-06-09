@@ -1,0 +1,630 @@
+@media only screen and (max-width: 1300px) {
+    .ant-tabs.select-address-item-tab-main .ant-tabs-left-content::before {
+        left: 45%;
+    }
+}
+
+@media only screen and (min-width: 320px)  and (max-width: 767px) {
+    html body .main-content-div {
+        transition: all 0.3s ease-in-out;
+        width: 100%;
+        height: 100%;
+        font-size: 13px;
+        line-height: 19px;
+        padding: 15px 15px 30px 70px !important;
+        margin-top: 60px !important;
+    }
+
+    html body .main-content-div .container-fluid {
+        padding: 0;
+    }
+
+    html body .main-content-div .profile-card-main {
+        width: 100%;
+        padding: 0 !important;
+    }
+
+    html body .main-content-div .profile-card-main .card {
+        min-height: 165px;
+        margin-bottom: 20px;
+    }
+
+    html body .navbar-fixed-top {
+        height: 60px;
+        padding: 10px 15px !important;
+    }
+
+    html body .navbar-fixed-top .navbar-right .header-buttons {
+        width: 12%;
+    }
+
+    html body .navbar-fixed-top .navbar-right .header-search {
+        width: 60%;
+    }
+
+    html body .main-content-div .common-heading-details h4 {
+        font-size: 15px;
+        margin-bottom: 10px !important;
+        margin-right: 0 !important;
+    }
+
+    .ant-btn, .main-btn-tag {
+        height: 32px;
+        padding: 0 10px;
+        font-size: 10px;
+    }
+
+    .top-f-row-search {
+        margin-top: 10px;
+        width: 100%;
+    }
+
+    html body .main-content-div .common-heading-details .top-f-row-search .ant-input {
+        width: 100%;
+    }
+
+    .common-heading-details {
+        margin-bottom: 10px !important;
+    }
+
+    html body .listing-table.when-pagination-true .table.table-custom .ant-table-body table .ant-table-thead tr th {
+        padding: 0 15px;
+    }
+
+    html body .listing-table .table.table-custom .ant-table-body table .ant-table-thead tr th {
+        font-size: 12px;
+        padding: 10px 15px;
+    }
+
+    html body .listing-table .table.table-custom .ant-table-body table .ant-table-tbody tr td {
+        padding: 10px 15px;
+        font-size: 10px;
+    }
+
+    html body .ant-dropdown.create-div-btn .ant-dropdown-menu-item .ant-btn {
+        text-transform: inherit !important;
+    }
+
+    .header-custom h6 {
+        font-size: 12px;
+    }
+
+    html body .main-content-div .card.card-main-custom .header-btn-card {
+        width: calc(100% - 120px);
+    }
+
+    html body .main-content-div .card.card-main-custom .body-div-inner {
+        width: 120px;
+    }
+
+    html body .main-content-div .card.card-main-custom .header-btn-card .search-btn {
+        font-size: 10px;
+        height: 32px;
+    }
+
+    html body .main-content-div .card.card-main-custom .body-div-inner .relate-icon-div {
+        height: 48px;
+        width: 48px;
+    }
+
+    html body .main-content-div .card.card-main-custom {
+        min-height: 115px;
+        margin-bottom: 15px !important;
+    }
+
+    html body .main-content-div .profile-card-main .card h6 {
+        font-size: 14px;
+    }
+}
+
+@media only screen and (min-width: 320px)  and (max-width: 767px) and (orientation: landscape) {
+    .card.card-main-custom {
+        min-height: 128px;
+    }
+
+    html body .navbar-fixed-top .navbar-right .header-buttons .ant-select.language-drop {
+        width: 100%;
+    }
+
+    html body .navbar-fixed-top .navbar-right .header-search {
+        width: 25%;
+    }
+
+    html body .navbar-fixed-top .navbar-right .header-buttons {
+        width: 50%;
+    }
+
+    html body .navbar-fixed-top .navbar-right .logo-div {
+        width: 20%;
+    }
+
+    html body .navbar-fixed-top .navbar-right:before {
+        width: 22.4%;
+    }
+
+    html body .navbar-fixed-top .navbar-right .header-search .search-form input {
+        height: 40px;
+        font-size: 10px;
+        padding-left: 25px;
+    }
+
+    html body .navbar-fixed-top .navbar-right .header-search .search-form .btn {
+        height: 38px;
+    }
+
+    html body .main-content-div .profile-card-main {
+        width: 50%;
+        padding: 0 15px !important;
+    }
+
+}
+
+@media only screen and (min-width: 768px)  and (max-width: 1200px) {
+    html body .main-content-div {
+        padding: 30px 15px 0 !important;
+    }
+
+    .ant-btn.another-address-add-btn {
+        font-size: 10px;
+        padding: 0 5px;
+    }
+
+    html body .main-content-div .container-fluid {
+        padding: 0;
+    }
+
+    html body .main-content-div .profile-card-main {
+        width: 33%;
+    }
+
+    html body .main-content-div .profile-card-main .card {
+        min-height: 160px;
+        padding: 10px !important;
+        margin-bottom: 20px;
+    }
+
+    html body .main-content-div .profile-card-main .card h6 {
+        font-size: 14px;
+        margin-top: 10px;
+    }
+
+    html body .main-content-div .common-heading-details h4 {
+        font-size: 14px;
+    }
+
+    .ant-btn, .main-btn-tag {
+        padding: 0 20px;
+    }
+
+    html body .navbar-fixed-top .navbar-right .header-buttons .ant-select.language-drop {
+        width: 20%;
+    }
+
+    html body .navbar-fixed-top .navbar-right .header-search {
+        width: 28%;
+    }
+
+    html body .navbar-fixed-top .navbar-right:before {
+        width: 21.4%;
+    }
+
+    html body .navbar-fixed-top .navbar-right .logo-div {
+        width: 19%;
+    }
+
+    html body .listing-table.when-pagination-true .table.table-custom .ant-table-body table .ant-table-thead tr th {
+        padding: 0 15px;
+    }
+
+    html body .listing-table .table.table-custom .ant-table-body table .ant-table-thead tr th {
+        padding: 12px 30px;
+        font-size: 13px;
+    }
+
+    html body .listing-table .table.table-custom .ant-table-body table .ant-table-tbody tr td {
+        padding: 12px 15px;
+        font-size: 11px;
+    }
+
+    html body .all-common-steps-row .ant-tabs-bar .ant-tabs-nav-container .ant-tabs-nav {
+        padding-left: 30%;
+    }
+
+    html body .all-common-steps-row .steps-right-side-div.dashboard-inner-second .header-tab-heading {
+        font-size: 15px;
+        top: 7.4%;
+        left: 29%;
+    }
+
+    html body .all-common-steps-row .ant-tabs-bar .ant-tabs-nav-container .ant-tabs-nav .ant-tabs-tab {
+        padding: 10px 8px;
+        font-size: 11px;
+        margin-right: 5px;
+    }
+
+    html body .all-common-steps-row .steps-sidebar {
+        width: 19.8%;
+        z-index: 99;
+        padding: 30% 15px 15px 20px;
+    }
+
+    html body .all-common-steps-row .steps-right-side-div.dashboard-inner-second .profile-summary-details-row, html body .all-common-steps-row .steps-right-side-div .steps-content {
+        width: 78.6%;
+    }
+
+    html body .all-common-steps-row .summary-info-row .card .card-body {
+        padding: 15px;
+    }
+
+    html body .all-common-steps-row .steps-sidebar .view-actions .ant-btn .action-img-icon {
+        width: 40px;
+        height: 40px;
+        position: relative;
+        top: 3px;
+    }
+
+    html body .all-common-steps-row .steps-sidebar .view-actions .ant-btn .action-text {
+        width: calc(100% - 40px);
+        font-size: 10px;
+        line-height: 14px;
+    }
+
+    html body .all-common-steps-row .steps-sidebar .view-actions .ant-btn {
+        min-height: 45px;
+    }
+
+    html .heading-name {
+        top: 12%;
+    }
+
+    .ant-modal {
+        width: 75% !important;
+    }
+
+    .ant-drawer-content-wrapper {
+        width: 75% !important;
+    }
+
+    html body .ant-modal.tabs-modal-exit .ant-modal-body .work-order-type-row .ant-btn {
+        width: 45%;
+        padding: 0 40px;
+        margin: 8px 10px;
+    }
+
+    html body .footer-btn-all-fixed {
+        width: 73%;
+    }
+
+    html body .main-content-div .card.card-main-custom .header-btn-card {
+        width: calc(100% - 140px);
+    }
+
+    html body .main-content-div .card.card-main-custom .body-div-inner {
+        width: 140px;
+    }
+
+    html body .navbar-fixed-top {
+        padding: 0 15px !important;
+    }
+
+    html body .all-common-steps-row .summary-info-row .card .card-body ul li.label-name-li {
+        width: 50%;
+    }
+
+    html body .all-common-steps-row .summary-info-row .card .card-body ul li.label-text-li {
+        width: 45%;
+    }
+
+    .padding-responsive-left {
+        padding-right: 0;
+    }
+
+    .padding-responsive-right {
+        padding-left: 0;
+    }
+
+    html body .main-content-div {
+        padding: 0 15px 0 !important;
+    }
+
+    .steps-main-row {
+        padding: 30px 15px 8%;
+    }
+
+    .steps-action.steps-action-custom {
+        width: 73.3%;
+        height: 50px;
+        padding: 0 15px !important;
+    }
+
+    .padding-0-ipad {
+        padding: 0;
+    }
+
+    .width-100-tab {
+        width: 100% !important;
+    }
+
+    .common-heading-details, html body .main-content-div .ware-house-fluid {
+        padding-top: 30px;
+    }
+
+    html body .all-common-steps-row .steps-right-side-div.dashboard-inner-second .work-order-view-tabs .step-info-div {
+        padding: 45px 15px;
+    }
+
+    .margin-top-ipad-30 {
+        margin-top: 30px;
+    }
+
+    .step-info-div .shopping-address-details-row .shopping-address-cart .card-shopping.card-details-main {
+        margin: 0;
+        width: 100% !important;
+    }
+
+    .step-info-div .shopping-address-details-row .shopping-address-cart .card-shopping {
+        float: left;
+        margin: 0 5px 30px;
+        padding: 30px 15px 20px;
+        width: 45% !important;
+    }
+
+    .steps-card-div {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    .step-info-div .shopping-address-details-row .shopping-address-cart .steps-card-div .steps-div:before {
+        left: 60px;
+    }
+
+    .step-info-div .shopping-address-details-row .shopping-address-cart .steps-card-div .steps-div.active:before {
+        top: 11px;
+    }
+
+    .step-info-div .shopping-address-details-row .shopping-address-cart .card-shopping.card-details-main .customer-purchase-details {
+        width: 30%;
+    }
+
+    .step-info-div .shopping-address-details-row .shopping-address-cart .card-shopping.card-details-main .product-details {
+        width: 50%;
+        padding-right: 10px;
+    }
+
+    .step-info-div .shopping-address-details-row .added-by-group .shopping-address-cart .ant-checkbox-group .cart-added-check .card-shopping {
+        width: calc(100% - 25px) !important;
+        float: right;
+    }
+
+    .added-by-group .ant-checkbox-group .cart-added-check label {
+        right: 97%;
+    }
+
+    .row.summary-info-row.mx-0.px-3 > .col-12.p-0 {
+        margin-top: 45px;
+    }
+
+    .toggle-sidebar-main {
+        width: 208px;
+    }
+
+    .toggle-sidebar-main .toggle-sidebar-inner .side-bar-div .side-bar-link-details ul li .text-sidebar-div ul li a {
+        font-size: 10px;
+        height: 32px;
+        padding: 0 6px !important;
+    }
+
+    html body .all-common-steps-row .summary-info-row {
+        padding: 15% 3% 0;
+    }
+
+    .add-items-div-row .card-add-items-fixed-div .inner-details-row-item {
+        padding: 30px 15px;
+    }
+
+    .add-items-div-row .card-add-items-fixed-div {
+        width: 33%;
+    }
+
+    .card.card-main {
+        width: 100%;
+    }
+
+    .ant-tabs.select-address-item-tab-main .ant-tabs-left-content::before {
+        left: 43.3%;
+    }
+
+    .add-item-row {
+        width: 55%;
+        height: 100%;
+    }
+
+    .add-items-div-row .card-add-items-div {
+        height: 100%;
+    }
+
+    .add-item-row:before {
+        top: 115%;
+        left: -21px;
+    }
+
+    .list-main-drawer .list-item-second-header .ant-input-affix-wrapper {
+        width: 65% !important;
+    }
+
+    .list-main-drawer .list-item-second-header h6 {
+        font-size: 14px;
+        margin-bottom: 15px !important;
+    }
+
+    .card-add-items-fixed-div .ant-tabs-tabpane {
+        width: 74%;
+        float: right;
+    }
+
+    .list-main-drawer .list-item-second-header {
+        padding: 40px 0 0;
+    }
+
+    .ant-tabs.select-address-item-tab-main .ant-tabs-bar.ant-tabs-left-bar .ant-tabs-nav-container {
+        width: 150px;
+    }
+
+    .ant-tabs-bar.ant-tabs-left-bar .ant-tabs-nav-container .ant-tabs-nav-wrap .ant-tabs-nav-scroll .ant-tabs-nav .ant-tabs-tab {
+        padding: 20px 10px !important;
+        width: 140px !important;
+        font-size: 11px !important;
+    }
+
+    .ant-tabs.select-address-item-tab-main .ant-tabs-bar.ant-tabs-left-bar .ant-tabs-nav-container .ant-tabs-nav-wrap .ant-tabs-nav-scroll .ant-tabs-nav .ant-tabs-tab.ant-tabs-tab-active h6 {
+        font-size: 13px;
+        padding: 0 !important;
+    }
+
+    .list-main-drawer .list-item-card-row {
+        padding: 20px 0 0;
+    }
+
+    .card.card-main .ant-btn {
+        white-space: initial;
+        margin-top: 8px;
+    }
+}
+
+@media only screen and (min-width: 768px)  and (max-width: 1200px) and (orientation: landscape) {
+    html body .all-common-steps-row .summary-info-row .card .card-body ul li.label-text-li, html body .all-common-steps-row .summary-info-row .card .card-body ul li.label-name-li {
+        width: 100%;
+    }
+    .header-text-main{ text-transform: inherit}
+    .padding-responsive-left {
+        padding-right: 15px;
+    }
+
+    .padding-responsive-right {
+        padding-left: 15px;
+    }
+
+    .card.card-main-custom .body-div-inner {
+        width: 115px;
+    }
+
+    html body .main-content-div .card.card-main-custom .header-btn-card {
+        width: calc(100% - 115px);
+    }
+
+    html body .main-content-div .card.card-main-custom .header-btn-card .search-btn {
+        font-size: 11px;
+    }
+
+    html body .main-content-div .card.card-main-custom {
+        min-height: 145px;
+    }
+
+    .header-custom {
+        height: 50px;
+        display: flex !important;
+        align-items: center;
+    }
+
+    html body .main-content-div .profile-card-main {
+        width: 25%;
+    }
+
+    html body .all-common-steps-row .steps-sidebar {
+        width: 20.2%;
+        padding-top: 20%;
+    }
+
+    html .heading-name {
+        top: 16%;
+    }
+
+    .steps-action.steps-action-custom {
+        width: 74.3%;
+    }
+
+    html body .all-common-steps-row .steps-right-side-div.dashboard-inner-second .header-tab-heading {
+        top: 9.4%;
+    }
+
+    .added-cart-type .d-flex.align-items-center {
+        display: inline-block !important;
+    }
+
+    .added-cart-type .d-flex.align-items-center .ant-input-number {
+        margin-top: 5px;
+    }
+
+    .step-info-div .shopping-address-details-row .shopping-address-cart .card-shopping {
+        float: left;
+        margin: 0 0 30px;
+        padding: 30px 15px 20px;
+        width: 100% !important;
+    }
+
+    .step-info-div .shopping-address-details-row .shopping-address-cart .steps-card-div .steps-div:before {
+        left: 30px;
+    }
+
+    .step-info-div .shopping-address-details-row .shopping-address-cart .steps-card-div .steps-div h6 {
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap;
+        padding: 0;
+        display: inherit !important;
+    }
+
+    .ant-drawer-content-wrapper {
+        width: 75% !important;
+    }
+
+    .toggle-sidebar-main {
+        width: 240px;
+    }
+
+    .toggle-sidebar-main .toggle-sidebar-inner .side-bar-div .side-bar-link-details ul li .text-sidebar-div ul li a {
+        font-size: 11px;
+        padding: 0 15px !important;
+        height: 34px;
+    }
+
+    html body .all-common-steps-row .summary-info-row {
+        padding: 10% 3% 0;
+    }
+
+    .add-items-div-row .card-add-items-fixed-div .inner-details-row-item {
+        padding: 30px 15px;
+    }
+
+    .add-items-div-row .card-add-items-fixed-div {
+        width: 20%;
+    }
+
+    .ant-tabs.select-address-item-tab-main .ant-tabs-left-content::before {
+        left: 43.3%;
+    }
+
+    .ant-tabs.select-address-item-tab-main .ant-tabs-bar.ant-tabs-left-bar .ant-tabs-nav-container {
+        width: 150px;
+    }
+
+    .ant-tabs-bar.ant-tabs-left-bar .ant-tabs-nav-container .ant-tabs-nav-wrap .ant-tabs-nav-scroll .ant-tabs-nav .ant-tabs-tab {
+        padding: 20px 10px !important;
+        width: 140px !important;
+        font-size: 11px !important;
+    }
+
+    .ant-tabs.select-address-item-tab-main .ant-tabs-bar.ant-tabs-left-bar .ant-tabs-nav-container .ant-tabs-nav-wrap .ant-tabs-nav-scroll .ant-tabs-nav .ant-tabs-tab.ant-tabs-tab-active h6 {
+        font-size: 13px;
+        padding: 0 !important;
+    }
+
+    .list-main-drawer .list-item-card-row {
+        padding: 20px 0 0;
+    }
+
+    .add-item-row:before {
+        left: -163px;
+    }
+}
+
